@@ -41,6 +41,8 @@ Ele rodará o frontend na porta 3000 e o backend na porta 4000
 -Atualizar Pedido: Insira o id do pedido que deseja atualizar ao lado do botão e clique nele, assim retornará os valores do pedido do id colocado, e fica disponível para você modificar. Os mesmos campos obrigatórios do criar pedido se aplica aqui.
 
 
+
+
 Technologies Used
 Frontend: React.js
 
